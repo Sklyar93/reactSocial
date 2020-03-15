@@ -1,13 +1,14 @@
 {
-  "name": "react-way-of-samurai",
+  "name": "",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://it-kamasutra.github.io/react-way-of-samurai",
+  "homepage": "https://github.com/Sklyar93/reactSocial.git",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "webpack": "^4.42.0"
   },
   "scripts": {
     "start": "react-scripts start",
